@@ -1,9 +1,6 @@
 ﻿
-# !!! Only Python 3.10.x !!!
-# i'm using pattern matching!
 
 # code from Vasyl Hohol
-# Upwork: https://www.upwork.com/freelancers/~01c336bbdd1a717251
 # GitHub: https://github.com/tr1Ggereo
 
 import os, ctypes
